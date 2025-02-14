@@ -1,0 +1,96 @@
+---
+title: "Digitale Revolution im Profisport: Wie Technologie Leistung, Wirtschaftlichkeit und Zuschauerinteraktion verändert"
+author: "Mika Oelhoff"
+date: "07.01.2025"
+format:
+  pdf:
+    documentclass: article
+    number-sections: true
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+  docx: default
+bibliography: references.bib
+csl: apa.csl
+---
+
+# Inhaltsverzeichnis  
+1. [Einleitung](#einleitung)  
+   1.1 [Relevanz und Ziel der Arbeit](#relevanz-und-ziel-der-arbeit)  
+   1.2 [Methodik](#methodik)  
+   1.3 [Aufbau der Arbeit](#aufbau-der-arbeit)  
+2. [Technologische Entwicklungen im Profisport](#technologische-entwicklungen-im-profisport)  
+   2.1 [Datenanalyse und Big Data](#datenanalyse-und-big-data)  
+   2.2 [Wearables und Sensoren](#wearables-und-sensoren)  
+   2.3 [Augmented Reality, Virtual Reality und digitale Technologien](#augmented-reality-virtual-reality-und-digitale-technologien)  
+   2.4 [Künstliche Intelligenz](#kunstliche-intelligenz)  
+3. [Auswirkungen auf die sportliche Leistung](#auswirkungen-auf-die-sportliche-leistung)  
+   3.1 [Optimierung durch Technologie](#optimierung-durch-technologie)  
+   3.2 [Verletzungsprävention](#verletzungspravention)  
+   3.3 [Fairness und Chancengleichheit](#fairness-und-chancengleichheit)  
+4. [Wirtschaftliche Implikationen](#wirtschaftliche-implikationen)  
+   4.1 [Einnahmequellen und Sponsoring](#einnahmequellen-und-sponsoring)  
+   4.2 [Ressourcennutzung und Effizienz](#ressourcennutzung-und-effizienz)  
+5. [Veränderungen im Zuschauererlebnis](#veranderungen-im-zuschauererlebnis)  
+   5.1 [Digitale Fan-Interaktion](#digitale-fan-interaktion)  
+   5.2 [Digitalisierung der Übertragungen](#digitalisierung-der-ubertragungen)  
+   5.3 [Globalisierung](#globalisierung)  
+6. [Fazit und Ausblick](#fazit-und-ausblick)  
+7. [Literaturverzeichnis](#literaturverzeichnis)  
+
+# Einleitung  
+## Relevanz und Ziel der Arbeit  
+*(Hier wird erläutert, warum das Thema relevant ist und welche Fragen die Arbeit beantworten möchte.)*
+
+## Methodik  
+*(Hier wird die Vorgehensweise zur Untersuchung des Themas beschrieben.)*
+
+## Aufbau der Arbeit  
+*(Hier wird kurz der Aufbau der Arbeit erläutert.)*
+
+# Technologische Entwicklungen im Profisport  
+## Datenanalyse und Big Data  
+*(Wie werden statistische Methoden, Machine Learning und fortgeschrittene Analysetools im Profisport eingesetzt?)*
+
+## Wearables und Sensoren  
+*(Welche Rolle spielen GPS-Tracker, Herzfrequenzmesser oder intelligente Textilien?)*
+
+## Augmented Reality, Virtual Reality und digitale Technologien  
+*(Wie verändern digitale Technologien Training, Taktik und das Stadionerlebnis?)*
+
+## Künstliche Intelligenz  
+*(Wie wird KI für Match-Analysen, Vorhersagen und personalisierte Inhalte genutzt?)*
+
+# Auswirkungen auf die sportliche Leistung  
+## Optimierung durch Technologie  
+*(Wie helfen Datenanalyse und Feedbacksysteme bei der Leistungssteigerung?)*
+
+## Verletzungsprävention  
+*(Wie erkennen Wearables und KI-Applikationen Verletzungsrisiken?)*
+
+## Fairness und Chancengleichheit  
+*(Welche ethischen Fragen stellt der technologische Fortschritt?)*
+
+# Wirtschaftliche Implikationen  
+## Einnahmequellen und Sponsoring  
+*(Welche neuen Geschäftsmodelle entstehen durch Digitalisierung?)*
+
+## Ressourcennutzung und Effizienz  
+*(Wie optimieren Vereine durch Technologie Transfers und Betriebsabläufe?)*
+
+# Veränderungen im Zuschauererlebnis  
+## Digitale Fan-Interaktion  
+*(Wie beeinflussen Social Media und Apps das Fanverhalten?)*
+
+## Digitalisierung der Übertragungen  
+*(Welche Rolle spielen Streaming-Dienste, Echtzeit-Statistiken und VR-Übertragungen?)*
+
+## Globalisierung  
+*(Wie macht Technologie den Sport einem globalen Publikum zugänglich?)*
+
+# Fazit und Ausblick  
+*(Zusammenfassung der wichtigsten Erkenntnisse und ein Ausblick auf zukünftige Entwicklungen.)*
+
+# Literaturverzeichnis  
+*(Hier werden die verwendeten Quellen aufgeführt.)*
