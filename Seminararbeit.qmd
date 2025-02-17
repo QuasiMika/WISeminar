@@ -1,18 +1,15 @@
 ---
 title: "Digitale Revolution im Profisport: Wie Technologie Leistung, Wirtschaftlichkeit und Zuschauerinteraktion verändert"
-author: "Mika Oelhoff"
-date: "07.01.2025"
+author:
+  - name: "Mika Oelhoff"
+date: "14. Februar 2025"
 format:
-  pdf:
-    documentclass: article
-    number-sections: true
-  html:
-    toc: true
-    toc-depth: 2
-    number-sections: true
-  docx: default
+  elsevier-pdf:
+    keep-tex: true
+    pdf-engine: xelatex
 bibliography: references.bib
-csl: apa.csl
+csl: elsevier-with-titles.csl
+link-citations: true
 ---
 
 # Inhaltsverzeichnis  
@@ -24,30 +21,30 @@ csl: apa.csl
    2.1 [Datenanalyse und Big Data](#datenanalyse-und-big-data)  
    2.2 [Wearables und Sensoren](#wearables-und-sensoren)  
    2.3 [Augmented Reality, Virtual Reality und digitale Technologien](#augmented-reality-virtual-reality-und-digitale-technologien)  
-   2.4 [Künstliche Intelligenz](#kunstliche-intelligenz)  
+   2.4 [Künstliche Intelligenz](#künstliche-intelligenz)  
 3. [Auswirkungen auf die sportliche Leistung](#auswirkungen-auf-die-sportliche-leistung)  
    3.1 [Optimierung durch Technologie](#optimierung-durch-technologie)  
-   3.2 [Verletzungsprävention](#verletzungspravention)  
+   3.2 [Verletzungsprävention](#verletzungsprävention)  
    3.3 [Fairness und Chancengleichheit](#fairness-und-chancengleichheit)  
 4. [Wirtschaftliche Implikationen](#wirtschaftliche-implikationen)  
    4.1 [Einnahmequellen und Sponsoring](#einnahmequellen-und-sponsoring)  
    4.2 [Ressourcennutzung und Effizienz](#ressourcennutzung-und-effizienz)  
-5. [Veränderungen im Zuschauererlebnis](#veranderungen-im-zuschauererlebnis)  
+5. [Veränderungen im Zuschauererlebnis](#veränderungen-im-zuschauererlebnis)  
    5.1 [Digitale Fan-Interaktion](#digitale-fan-interaktion)  
-   5.2 [Digitalisierung der Übertragungen](#digitalisierung-der-ubertragungen)  
+   5.2 [Digitalisierung der Übertragungen](#digitalisierung-der-übertragungen)  
    5.3 [Globalisierung](#globalisierung)  
 6. [Fazit und Ausblick](#fazit-und-ausblick)  
 7. [Literaturverzeichnis](#literaturverzeichnis)  
 
 # Einleitung  
 ## Relevanz und Ziel der Arbeit  
-*(Hier wird erläutert, warum das Thema relevant ist und welche Fragen die Arbeit beantworten möchte.)*
+Die Digitalisierung hat nahezu alle Bereiche des modernen Lebens erfasst, und der Profisport bildet dabei keine Ausnahme. Fortschritte in **Big Data, künstlicher Intelligenz (KI), Wearables und digitalen Übertragungstechnologien** verändern grundlegend, wie Athleten trainieren, Teams strategische Entscheidungen treffen und Fans Sportereignisse erleben. Während früher die Einschätzung von Trainer*innen und subjektive Analysen dominierten, ermöglichen heute datenbasierte Modelle eine präzisere Bewertung von Leistung, Strategie und Gesundheitszustand der Sportler*innen. Diese technologischen Fortschritte eröffnen nicht nur neue Möglichkeiten, sondern werfen auch Fragen hinsichtlich **Fairness, Kommerzialisierung und Ethik** im Profisport auf.
 
 ## Methodik  
-*(Hier wird die Vorgehensweise zur Untersuchung des Themas beschrieben.)*
+Die vorliegende Arbeit basiert auf einer umfassenden Analyse aktueller technischer Entwicklungen im Profisport und deren Auswirkungen. Es werden **wissenschaftliche Publikationen, Marktanalysen sowie Fallstudien** untersucht, um die Kernbereiche der digitalen Revolution systematisch zu erfassen. Der Fokus liegt auf der Evaluierung der technologischen Fortschritte in der **Leistungsoptimierung, wirtschaftlichen Nutzung und Zuschauerinteraktion**. Darüber hinaus werden **Chancen und Risiken** dieser Entwicklungen betrachtet, um ein ganzheitliches Bild zu erhalten.
 
 ## Aufbau der Arbeit  
-*(Hier wird kurz der Aufbau der Arbeit erläutert.)*
+Die Arbeit ist in mehrere Abschnitte unterteilt. Zunächst wird ein Überblick über die aktuellen **technologischen Entwicklungen im Profisport** gegeben, einschließlich der Bereiche **Datenanalyse, KI, Wearables und Virtual Reality**. Anschließend wird untersucht, wie diese Technologien die **sportliche Leistung beeinflussen**, insbesondere im Hinblick auf **Trainingsoptimierung und Verletzungsprävention**. Im dritten Abschnitt werden die **wirtschaftlichen Implikationen** beleuchtet, darunter neue **Einnahmequellen, Sponsoring-Modelle und Effizienzsteigerungen**. Abschließend wird betrachtet, wie die Digitalisierung das **Zuschauererlebnis verändert**, z. B. durch **Streaming-Dienste, interaktive Fan-Plattformen und Virtual Reality-Erlebnisse**. Die Arbeit schließt mit einem **Fazit und Ausblick** auf zukünftige Entwicklungen und Herausforderungen.
 
 # Technologische Entwicklungen im Profisport  
 ## Datenanalyse und Big Data  
