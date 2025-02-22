@@ -18,7 +18,7 @@ link-citations: true
    1.2 [Methodik](#methodik)  
    1.3 [Aufbau der Arbeit](#aufbau-der-arbeit)  
 2. [Technologische Entwicklungen im Profisport](#technologische-entwicklungen-im-profisport)  
-   2.1 [Datenanalyse und Big Data](#datenanalyse-und-big-data)  
+   2.1 [Datenanalyse und Performance Insights](#datenanalyse-und-big-data)  
    2.2 [Wearables und Sensoren](#wearables-und-sensoren)  
    2.3 [Augmented Reality, Virtual Reality und digitale Technologien](#augmented-reality-virtual-reality-und-digitale-technologien)  
    2.4 [Künstliche Intelligenz](#künstliche-intelligenz)  
@@ -37,8 +37,8 @@ link-citations: true
 7. [Literaturverzeichnis](#literaturverzeichnis)  
 
 # Einleitung  
-## Relevanz und Ziel der Arbeit  
-Die Digitalisierung hat nahezu alle Bereiche des modernen Lebens erfasst, und der Profisport bildet dabei keine Ausnahme. Fortschritte in **Big Data, künstlicher Intelligenz (KI), Wearables und digitalen Übertragungstechnologien** verändern grundlegend, wie Athleten trainieren, Teams strategische Entscheidungen treffen und Fans Sportereignisse erleben. Während früher die Einschätzung von Trainer*innen und subjektive Analysen dominierten, ermöglichen heute datenbasierte Modelle eine präzisere Bewertung von Leistung, Strategie und Gesundheitszustand der Sportler*innen. Diese technologischen Fortschritte eröffnen nicht nur neue Möglichkeiten, sondern werfen auch Fragen hinsichtlich **Fairness, Kommerzialisierung und Ethik** im Profisport auf.
+## Relevanz und Ziel der Arbeit
+In unserem Studienfeld wird immer wieder betont, dass digitale Produkte nahezu alle Bereiche des modernen Lebens durchdrungen haben und Effektivität sowie Effizienz von Abläufen und Systemen erheblich steigern können. Auch der Profisport bildet hier keine Ausnahme. Als technik- und sportbegeisterte Person habe ich mich daher dazu entschieden, in meiner Seminararbeit der Frage nachzugehen, wie der Profisport vom digitalen Fortschritt profitiert – etwa durch **Datenanalysetools, künstliche Intelligenz, Wearables und digitale Übertragungstechnologien**. Gleichzeitig möchte ich untersuchen, inwieweit dadurch Fragen der **Fairness, Kommerzialisierung und Ethik** aufgeworfen werden, die den Sport nachhaltig verändern könnten.
 
 ## Methodik  
 Die vorliegende Arbeit basiert auf einer umfassenden Analyse aktueller technischer Entwicklungen im Profisport und deren Auswirkungen. Es werden **wissenschaftliche Publikationen, Marktanalysen sowie Fallstudien** untersucht, um die Kernbereiche der digitalen Revolution systematisch zu erfassen. Der Fokus liegt auf der Evaluierung der technologischen Fortschritte in der **Leistungsoptimierung, wirtschaftlichen Nutzung und Zuschauerinteraktion**. Darüber hinaus werden **Chancen und Risiken** dieser Entwicklungen betrachtet, um ein ganzheitliches Bild zu erhalten.
@@ -47,7 +47,7 @@ Die vorliegende Arbeit basiert auf einer umfassenden Analyse aktueller technisch
 Die Arbeit ist in mehrere Abschnitte unterteilt. Zunächst wird ein Überblick über die aktuellen **technologischen Entwicklungen im Profisport** gegeben, einschließlich der Bereiche **Datenanalyse, KI, Wearables und Virtual Reality**. Anschließend wird untersucht, wie diese Technologien die **sportliche Leistung beeinflussen**, insbesondere im Hinblick auf **Trainingsoptimierung und Verletzungsprävention**. Im dritten Abschnitt werden die **wirtschaftlichen Implikationen** beleuchtet, darunter neue **Einnahmequellen, Sponsoring-Modelle und Effizienzsteigerungen**. Abschließend wird betrachtet, wie die Digitalisierung das **Zuschauererlebnis verändert**, z. B. durch **Streaming-Dienste, interaktive Fan-Plattformen und Virtual Reality-Erlebnisse**. Die Arbeit schließt mit einem **Fazit und Ausblick** auf zukünftige Entwicklungen und Herausforderungen.
 
 # Technologische Entwicklungen im Profisport  
-## Datenanalyse und Big Data  
+## Datenanalyse und Performance Insights  
 *(Wie werden statistische Methoden, Machine Learning und fortgeschrittene Analysetools im Profisport eingesetzt?)*
 
 ## Wearables und Sensoren  
